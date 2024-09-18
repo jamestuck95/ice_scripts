@@ -6,4 +6,4 @@
 
 ### Target specific namespaces
     --namespace=kube-public
-    _Example; kubectl get pods -o wide --namespace=kube-public_
+    *Example; kubectl get pods -o wide --namespace=kube-public*
