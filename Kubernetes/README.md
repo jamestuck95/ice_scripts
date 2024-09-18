@@ -17,3 +17,12 @@ Kubectl's version of get-help in powershell
     
     kubectl explain pods
 
+### Changes the replicaset value for the service
+    kubectl scale deployment hello-world-rest-api --replicas=3
+
+### Get kubernetes events - sorted by time
+    kubectl get events --sort-by=.metadata.creationTimestamp
+
+### Delete all kubernetes services with the label hello-world-rest-api
+    kubectl.exe delete all -l app=hello-world-rest-api
+    
