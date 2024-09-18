@@ -5,6 +5,6 @@
     kubectl get pods -o wide
 
 ### Target specific namespaces
-> For example to target the kube-public namespace only you would use this command; kubectl get pods -o wide --namespace=kube-public
+**For example to target the kube-public namespace only you would use this command; _kubectl get pods -o wide --namespace=kube-public_**
     
     --namespace=kube-public
