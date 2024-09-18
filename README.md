@@ -1,2 +1,3 @@
-# ice_scripts
-Shared repo for ICE scripts
+# ICE Scripts Repo
+
+    Shared repo for all scripts used by ICE.
