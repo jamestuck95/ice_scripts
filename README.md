@@ -16,3 +16,4 @@ Useful commands when using the git command line to upload code to the ICE script
 ### Push changes made on your local machine to remote repo
     git push -u
 
+### test on azure
