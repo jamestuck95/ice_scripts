@@ -14,5 +14,6 @@
 
 ### Get descriptions of commands
 Kubectl's version of get-help in powershell
+    
     kubectl explain pods
 
