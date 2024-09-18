@@ -17,3 +17,5 @@ Useful commands when using the git command line to upload code to the ICE script
     git push -u
 
 ### test on azure
+
+### git vs test
